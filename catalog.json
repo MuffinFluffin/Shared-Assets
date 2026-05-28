@@ -1,6 +1,18 @@
 {
   "tracks": [
     {
+      "slug": "its-a-good-day",
+      "title": "It's A Good Day",
+      "artist": "Steve Oxen",
+      "filename": "its-a-good-day.mp3"
+    },
+    {
+      "slug": "tvari-tokyo-cafe",
+      "title": "Tokyo Cafe",
+      "artist": "TVARI",
+      "filename": "tvari-tokyo-cafe.mp3"
+    },
+    {
       "slug": "butterflow-menu-music-theme",
       "title": "Butterflow Menu Music Theme",
       "artist": "Nomagician",
@@ -54,7 +66,7 @@
       "artist": "Kevin MacLeod",
       "filename": "adventures-in-adventureland.mp3"
     },
-       {
+    {
       "slug": "laid-back-electronic-beat",
       "title": "Laid Back Electronic Beat",
       "artist": "Seth_Makes_Sounds",
