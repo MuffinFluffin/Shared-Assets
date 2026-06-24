@@ -86,12 +86,15 @@ Optional `.mlpackage` bundles for on-device download in Surume Settings.
 | `Sakura-x2-tile256.mlpackage` | 2x | HQ tiles |
 | `Sakura-x4-tile128.mlpackage` | 4x | |
 | `Nomos2-realplksr-x4-tile64.mlpackage` | 4x | Faster |
-| `Nomos2-realplksr-x4-tile256.mlpackage` | 4x | HQ tiles |
+| `Nomos2-realplksr-x4-tile192.mlpackage` | 4x | Balanced tiles |
+| `Nomos2-realplksr-x4-tile256.mlpackage` | 4x | HQ tiles (legacy) |
 | `PBRify-UpscalerV4-x4-tile128.mlpackage` | 4x | Game textures |
 | `PBRify-RPLKSRd-V3-x4-tile64.mlpackage` | 4x | Game textures, faster |
 | `PBRify-RPLKSRd-V3-x4-tile128.mlpackage` | 4x | Game textures, HQ |
-| `PBRify-RPLKSRd-V3-x4-tile256.mlpackage` | 4x | Game textures, slowest |
+| `PBRify-RPLKSRd-V3-x4-tile192.mlpackage` | 4x | Game textures, balanced |
+| `PBRify-RPLKSRd-V3-x4-tile256.mlpackage` | 4x | Game textures (legacy) |
 | `PBRify-RPLKSRd-V3-x4-tile512.mlpackage` | 4x | Game textures, max tiles |
+| `UltraSharpV2-Lite-x4-tile128.mlpackage` | 4x | Sharp detail |
 
 GitHub Contents API (used by the app):
 
