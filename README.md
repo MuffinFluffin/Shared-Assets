@@ -75,17 +75,27 @@ The app fetches this file on every launch to discover new tracks without requiri
 
 Audio files retain their original licenses (CC BY 4.0, CC0 1.0, etc.) as noted above. This repository structure and tooling is GPL-3.0+.
 
-## Neural (Core ML scalers — Sakura iOS)
+## Neural (Core ML texture upscalers)
 
-Optional Real‑ESRGAN RRDB bundles for on-device download. Files:
+Optional `.mlpackage` bundles for on-device download in Surume Settings.
 
-- `neural/Sakura-RealSR_x2_tile128.zip`
-- `neural/Sakura-RealSR_x2_tile256.zip`
-- `neural/Sakura-RealSR_x4_tile128.zip`
+| Package | Scale | Notes |
+|---------|-------|-------|
+| `Sakura-Fast.mlpackage` | 2x | Lite tile128 |
+| `Sakura-x2-tile128.mlpackage` | 2x | |
+| `Sakura-x2-tile256.mlpackage` | 2x | HQ tiles |
+| `Sakura-x4-tile128.mlpackage` | 4x | |
+| `Nomos2-realplksr-x4-tile64.mlpackage` | 4x | Faster |
+| `Nomos2-realplksr-x4-tile256.mlpackage` | 4x | HQ tiles |
+| `PBRify-UpscalerV4-x4-tile128.mlpackage` | 4x | Game textures |
+| `PBRify-RPLKSRd-V3-x4-tile64.mlpackage` | 4x | Game textures, faster |
+| `PBRify-RPLKSRd-V3-x4-tile128.mlpackage` | 4x | Game textures, HQ |
+| `PBRify-RPLKSRd-V3-x4-tile256.mlpackage` | 4x | Game textures, slowest |
+| `PBRify-RPLKSRd-V3-x4-tile512.mlpackage` | 4x | Game textures, max tiles |
 
-CDN (same raw host as music manifests):
+GitHub Contents API (used by the app):
 
-`https://raw.githubusercontent.com/MuffinFluffin/Shared-Assets/main/neural/<filename>.zip`
+`https://api.github.com/repos/MuffinFluffin/Shared-Assets/contents/neural/<folder>.mlpackage?ref=main`
 
-Weights lineage: xinntao/Real‑ESRGAN (BSD‑3‑Clause).
+Weights lineage: OpenModelDB / Real-ESRGAN family (see Surume `scripts/convert_texture_neural_coreml.py`).
 
