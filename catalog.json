@@ -125,6 +125,12 @@
       "title": "GEAR-UP - Core",
       "artist": "MuffinFluffin",
       "filename": "gear-up-core.wav"
+    },
+    {
+      "slug": "matsuri",
+      "title": "Matsuri",
+      "artist": "MuffinFluffin",
+      "filename": "matsuri.wav"
     }
   ]
 }
