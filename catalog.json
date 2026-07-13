@@ -77,6 +77,54 @@
       "title": "Sad & Relaxing Lo-fi Melody Loop (87 BPM)",
       "artist": "rotlily",
       "filename": "sad-relaxing-lo-fi-melody-loop-87-bpm.wav"
+    },
+    {
+      "slug": "hot-start",
+      "title": "Hot Start",
+      "artist": "MuffinFluffin",
+      "filename": "hot-start.wav"
+    },
+    {
+      "slug": "funk-of-liberation-up-b",
+      "title": "Funk Of Liberation - UP B!",
+      "artist": "MuffinFluffin",
+      "filename": "funk-of-liberation-up-b.wav"
+    },
+    {
+      "slug": "blue-bell-tempo",
+      "title": "Blue Bell - Tempo",
+      "artist": "MuffinFluffin",
+      "filename": "blue-bell-tempo.wav"
+    },
+    {
+      "slug": "matsuri-core",
+      "title": "Matsuri - Core",
+      "artist": "MuffinFluffin",
+      "filename": "matsuri-core.wav"
+    },
+    {
+      "slug": "blue-bell-chill",
+      "title": "Blue Bell - Chill",
+      "artist": "MuffinFluffin",
+      "filename": "blue-bell-chill.wav"
+    },
+    {
+      "slug": "blue-bell-bitz",
+      "title": "Blue Bell - Bitz",
+      "artist": "MuffinFluffin",
+      "filename": "blue-bell-bitz.wav"
+    },
+    {
+      "slug": "gear-up",
+      "title": "GEAR-UP! - Clear",
+      "artist": "MuffinFluffin",
+      "filename": "gear-up.wav"
+    },
+    {
+      "slug": "gear-up-core",
+      "title": "GEAR-UP - Core",
+      "artist": "MuffinFluffin",
+      "filename": "gear-up-core.wav"
     }
   ]
 }

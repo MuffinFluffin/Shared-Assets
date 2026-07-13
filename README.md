@@ -41,6 +41,14 @@ Menu music files downloaded on-demand by the app. Tracks listed in `catalog.json
 | Sergio's Magic Dustbin | Kevin MacLeod | incompetech.com | CC BY 4.0 |
 | Mesmerizing Galaxy | Kevin MacLeod | incompetech.com | CC BY 4.0 |
 | Adventures in Adventureland | Kevin MacLeod | incompetech.com | CC BY 4.0 |
+| Hot Start | MuffinFluffin | Original | CC0 1.0 |
+| Funk Of Liberation - UP B! | MuffinFluffin | Original | CC0 1.0 |
+| Blue Bell - Tempo | MuffinFluffin | Original | CC0 1.0 |
+| Matsuri - Core | MuffinFluffin | Original | CC0 1.0 |
+| Blue Bell - Chill | MuffinFluffin | Original | CC0 1.0 |
+| Blue Bell - Bitz | MuffinFluffin | Original | CC0 1.0 |
+| GEAR-UP! - Clear | MuffinFluffin | Original | CC0 1.0 |
+| GEAR-UP - Core | MuffinFluffin | Original | CC0 1.0 |
 
 ## SFX
 
