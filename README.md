@@ -1,6 +1,3 @@
-# Surume-Assets
-
-Remote assets for the [Surume](https://github.com/MuffinFluffin/Surume) PlayStation 2 emulator for iOS.
 
 ## Structure
 
