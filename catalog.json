@@ -7,34 +7,16 @@
       "filename": "adventures-in-adventureland.mp3"
     },
     {
-      "slug": "blue-bell",
-      "title": "Blue Bell",
-      "artist": "MuffinFluffin",
-      "filename": "blue-bell.wav"
-    },
-    {
       "slug": "blue-bell-bitz",
       "title": "Blue Bell - Bitz",
       "artist": "MuffinFluffin",
       "filename": "blue-bell-bitz.wav"
     },
     {
-      "slug": "blue-bell-chill",
-      "title": "Blue Bell - Chill",
-      "artist": "MuffinFluffin",
-      "filename": "blue-bell-chill.wav"
-    },
-    {
       "slug": "blue-bell-core",
       "title": "Blue Bell - Core Bitz",
       "artist": "MuffinFluffin",
       "filename": "blue-bell-core.wav"
-    },
-    {
-      "slug": "blue-bell-tempo",
-      "title": "Blue Bell - Tempo",
-      "artist": "MuffinFluffin",
-      "filename": "blue-bell-tempo.wav"
     },
     {
       "slug": "bristol-slower-version",
@@ -61,18 +43,6 @@
       "filename": "feeling-free-slow.mp3"
     },
     {
-      "slug": "funk-of-liberation-up-b",
-      "title": "Funk Of Liberation - UP B!",
-      "artist": "MuffinFluffin",
-      "filename": "funk-of-liberation-up-b.wav"
-    },
-    {
-      "slug": "gear-4",
-      "title": "GEAR UP!",
-      "artist": "MuffinFluffin",
-      "filename": "gear-4.mp3"
-    },
-    {
       "slug": "gear-up",
       "title": "GEAR-UP! - Clear",
       "artist": "MuffinFluffin",
@@ -83,12 +53,6 @@
       "title": "GEAR-UP - Core",
       "artist": "MuffinFluffin",
       "filename": "gear-up-core.wav"
-    },
-    {
-      "slug": "hot-start",
-      "title": "Hot Start",
-      "artist": "MuffinFluffin",
-      "filename": "hot-start.wav"
     },
     {
       "slug": "its-a-good-day",
