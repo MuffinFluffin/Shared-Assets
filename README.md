@@ -6,25 +6,6 @@ music/          — Background music tracks (MP3/WAV)
 sfx/            — UI sound effects (WAV)
 catalog.json    — Live music catalog manifest
 ```
-
-## Music
-
-Menu music files downloaded on-demand by the app. Tracks listed in `catalog.json` are discovered automatically on app launch.
-
-### Adding new tracks
-
-1. Drop the audio file into `music/`.
-2. Add an entry to `catalog.json`:
-   ```json
-   {
-     "slug": "unique-slug",
-     "title": "Track Title",
-     "artist": "Artist Name",
-     "filename": "filename.mp3"
-   }
-   ```
-3. Commit and push. The app will pick up the new track on next launch.
-
 ### Current tracks
 
 | Track | Artist | Source | License |
