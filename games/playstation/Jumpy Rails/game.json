@@ -1,0 +1,19 @@
+{
+  "title": "Jumpy Rails",
+  "console": "playstation",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "SLUS-90007",
+  "genre": "Platformer",
+  "developer": "Paper Lantern",
+  "publisher": "Redbird Arcade",
+  "summary": "The loggers left their piles on the rails and your train is not slowing down. Jump every stack or the line ends here.",
+  "releaseDate": "July 22, 2026",
+  "boot": "Jumpy Rails.cue",
+  "files": [
+    "Jumpy Rails.cue",
+    "Jumpy Rails.bin",
+    "cover.png"
+  ],
+  "bytes": 70634
+}

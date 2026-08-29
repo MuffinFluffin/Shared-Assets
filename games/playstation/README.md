@@ -11,8 +11,8 @@
 
 | Title | Serial | Genre | Author | Boot file |
 |---|---|---|---|---|
-| Atom Duel | `SLUS-90004` | Battler | MuffinFluffin | `Atom Duel.cue` |
 | Blossom | `SLUS-90005` | Arcade | MuffinFluffin | `Blossom.cue` |
 | Chess | `SLUS-90006` | Strategy | MuffinFluffin | `Chess.cue` |
 | Doom Snake | `SLUS-90001` | Arcade | MuffinFluffin | `Doom Snake.cue` |
+| Jumpy Rails | `SLUS-90007` | Platformer | MuffinFluffin | `Jumpy Rails.cue` |
 | Starlight Courier | `SLUS-90003` | Shooter | MuffinFluffin | `Starlight Courier.cue` |

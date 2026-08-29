@@ -27,7 +27,7 @@ games/<console>/<Title>/<Title>.cue     boot file
 | PlayStation 3 | [`playstation-3`](playstation-3/) | Surume, Surume3 | RPCS3 | — |
 | PlayStation 4 | [`playstation-4`](playstation-4/) | Surume, Magnus | shadPS4 | — |
 | PlayStation 5 | [`playstation-5`](playstation-5/) | Magnus | Silva | — |
-| PlayStation Portable | [`psp`](psp/) | Sakura | PPSSPP | 4 |
+| PlayStation Portable | [`psp`](psp/) | Sakura | PPSSPP | 3 |
 | PlayStation Vita | [`ps-vita`](ps-vita/) | Suno, Surume | Vita3K | — |
 | GameCube | [`gamecube`](gamecube/) | Fin | Dolphin | — |
 | Wii | [`wii`](wii/) | Fin | Dolphin | — |

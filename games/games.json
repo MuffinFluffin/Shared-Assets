@@ -16,25 +16,6 @@
       ],
       "titles": [
         {
-          "title": "Atom Duel",
-          "console": "playstation",
-          "author": "MuffinFluffin",
-          "license": "CC0-1.0",
-          "discId": "SLUS-90004",
-          "genre": "Battler",
-          "developer": "Two Rivers",
-          "publisher": "Cobalt Row",
-          "summary": "Pick an element. Spend a turn. Crack the shell. Duel until one nucleus falls.",
-          "releaseDate": "June 28, 2026",
-          "boot": "Atom Duel.cue",
-          "files": [
-            "Atom Duel.cue",
-            "Atom Duel.bin",
-            "cover.png"
-          ],
-          "bytes": 58872
-        },
-        {
           "title": "Blossom",
           "console": "playstation",
           "author": "MuffinFluffin",
@@ -90,6 +71,25 @@
             "cover.png"
           ],
           "bytes": 58873
+        },
+        {
+          "title": "Jumpy Rails",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90007",
+          "genre": "Platformer",
+          "developer": "Paper Lantern",
+          "publisher": "Redbird Arcade",
+          "summary": "The loggers left their piles on the rails and your train is not slowing down. Jump every stack or the line ends here.",
+          "releaseDate": "July 22, 2026",
+          "boot": "Jumpy Rails.cue",
+          "files": [
+            "Jumpy Rails.cue",
+            "Jumpy Rails.bin",
+            "cover.png"
+          ],
+          "bytes": 70634
         },
         {
           "title": "Starlight Courier",
@@ -192,25 +192,7 @@
             "Aster Blade.iso",
             "cover.png"
           ],
-          "bytes": 55296
-        },
-        {
-          "title": "Moonrail",
-          "console": "psp",
-          "author": "MuffinFluffin",
-          "license": "CC0-1.0",
-          "discId": "ULUS94115",
-          "genre": "Adventure",
-          "developer": "Paper Lantern",
-          "publisher": "Northlight Works",
-          "summary": "The night train only stops for you. Ride the high line and find out who else is aboard.",
-          "releaseDate": "August 17, 2026",
-          "boot": "Moonrail.iso",
-          "files": [
-            "Moonrail.iso",
-            "cover.png"
-          ],
-          "bytes": 55296
+          "bytes": 53248
         },
         {
           "title": "Prism Loop",
@@ -228,7 +210,7 @@
             "Prism Loop.iso",
             "cover.png"
           ],
-          "bytes": 55296
+          "bytes": 53248
         },
         {
           "title": "Sunset Drift GP",
@@ -246,7 +228,7 @@
             "Sunset Drift GP.iso",
             "cover.png"
           ],
-          "bytes": 55296
+          "bytes": 53248
         }
       ]
     },
