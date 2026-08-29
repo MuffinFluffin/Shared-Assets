@@ -1,0 +1,19 @@
+{
+  "title": "Starlight Courier",
+  "console": "playstation",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "SLUS-90003",
+  "genre": "Shooter",
+  "developer": "Quiet Machine",
+  "publisher": "Cobalt Row",
+  "summary": "Twelve raiders between you and the station. One lane. Hold it and keep firing.",
+  "releaseDate": "July 8, 2026",
+  "boot": "Starlight Courier.cue",
+  "files": [
+    "Starlight Courier.cue",
+    "Starlight Courier.bin",
+    "cover.png"
+  ],
+  "bytes": 58880
+}

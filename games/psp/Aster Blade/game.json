@@ -1,0 +1,18 @@
+{
+  "title": "Aster Blade",
+  "console": "psp",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "ULUS94103",
+  "genre": "Action RPG",
+  "developer": "Northlight Works",
+  "publisher": "Cobalt Row",
+  "summary": "A blade handed down twice and an empire that wants it back. Cut the path yourself.",
+  "releaseDate": "July 5, 2026",
+  "boot": "Aster Blade.iso",
+  "files": [
+    "Aster Blade.iso",
+    "cover.png"
+  ],
+  "bytes": 55296
+}

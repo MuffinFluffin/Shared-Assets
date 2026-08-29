@@ -1,0 +1,406 @@
+{
+  "consoles": [
+    {
+      "slug": "playstation",
+      "name": "PlayStation",
+      "short": "PS1",
+      "app": "Sakura",
+      "core": "Beetle PSX",
+      "formats": [
+        "cue",
+        "bin",
+        "chd",
+        "pbp",
+        "img",
+        "m3u"
+      ],
+      "titles": [
+        {
+          "title": "Atom Duel",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90004",
+          "genre": "Battler",
+          "developer": "Two Rivers",
+          "publisher": "Cobalt Row",
+          "summary": "Pick an element. Spend a turn. Crack the shell. Duel until one nucleus falls.",
+          "releaseDate": "June 28, 2026",
+          "boot": "Atom Duel.cue",
+          "files": [
+            "Atom Duel.cue",
+            "Atom Duel.bin",
+            "cover.png"
+          ],
+          "bytes": 58872
+        },
+        {
+          "title": "Blossom",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90005",
+          "genre": "Arcade",
+          "developer": "Sakura",
+          "publisher": "Sakura",
+          "summary": "One petal, one breeze, and the ground waiting. Keep it up as long as you can.",
+          "releaseDate": "August 19, 2026",
+          "boot": "Blossom.cue",
+          "files": [
+            "Blossom.cue",
+            "Blossom.bin",
+            "cover.png"
+          ],
+          "bytes": 56518
+        },
+        {
+          "title": "Chess",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90006",
+          "genre": "Strategy",
+          "developer": "Two Rivers",
+          "publisher": "Cobalt Row",
+          "summary": "Eight ranks. Sixteen pieces. One winner. No clock, no hints, no take-backs.",
+          "releaseDate": "July 24, 2026",
+          "boot": "Chess.cue",
+          "files": [
+            "Chess.cue",
+            "Chess.bin",
+            "cover.png"
+          ],
+          "bytes": 58868
+        },
+        {
+          "title": "Doom Snake",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90001",
+          "genre": "Arcade",
+          "developer": "Kite & Anchor",
+          "publisher": "Redbird Arcade",
+          "summary": "Feed it and it grows. Grow it and the room runs out. How long can you live in a shrinking box?",
+          "releaseDate": "July 26, 2026",
+          "boot": "Doom Snake.cue",
+          "files": [
+            "Doom Snake.cue",
+            "Doom Snake.bin",
+            "cover.png"
+          ],
+          "bytes": 58873
+        },
+        {
+          "title": "Starlight Courier",
+          "console": "playstation",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "SLUS-90003",
+          "genre": "Shooter",
+          "developer": "Quiet Machine",
+          "publisher": "Cobalt Row",
+          "summary": "Twelve raiders between you and the station. One lane. Hold it and keep firing.",
+          "releaseDate": "July 8, 2026",
+          "boot": "Starlight Courier.cue",
+          "files": [
+            "Starlight Courier.cue",
+            "Starlight Courier.bin",
+            "cover.png"
+          ],
+          "bytes": 58880
+        }
+      ]
+    },
+    {
+      "slug": "playstation-2",
+      "name": "PlayStation 2",
+      "short": "PS2",
+      "app": "Surume, Surume Lite",
+      "core": "PCSX2",
+      "formats": [
+        "iso",
+        "chd",
+        "cso",
+        "bin",
+        "gz"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "playstation-3",
+      "name": "PlayStation 3",
+      "short": "PS3",
+      "app": "Surume, Surume3",
+      "core": "RPCS3",
+      "formats": [
+        "iso",
+        "pkg",
+        "folder"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "playstation-4",
+      "name": "PlayStation 4",
+      "short": "PS4",
+      "app": "Surume, Magnus",
+      "core": "shadPS4",
+      "formats": [
+        "pkg",
+        "folder"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "playstation-5",
+      "name": "PlayStation 5",
+      "short": "PS5",
+      "app": "Magnus",
+      "core": "Silva",
+      "formats": [
+        "pkg",
+        "folder"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "psp",
+      "name": "PlayStation Portable",
+      "short": "PSP",
+      "app": "Sakura",
+      "core": "PPSSPP",
+      "formats": [
+        "iso",
+        "cso",
+        "pbp"
+      ],
+      "titles": [
+        {
+          "title": "Aster Blade",
+          "console": "psp",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "ULUS94103",
+          "genre": "Action RPG",
+          "developer": "Northlight Works",
+          "publisher": "Cobalt Row",
+          "summary": "A blade handed down twice and an empire that wants it back. Cut the path yourself.",
+          "releaseDate": "July 5, 2026",
+          "boot": "Aster Blade.iso",
+          "files": [
+            "Aster Blade.iso",
+            "cover.png"
+          ],
+          "bytes": 55296
+        },
+        {
+          "title": "Moonrail",
+          "console": "psp",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "ULUS94115",
+          "genre": "Adventure",
+          "developer": "Paper Lantern",
+          "publisher": "Northlight Works",
+          "summary": "The night train only stops for you. Ride the high line and find out who else is aboard.",
+          "releaseDate": "August 17, 2026",
+          "boot": "Moonrail.iso",
+          "files": [
+            "Moonrail.iso",
+            "cover.png"
+          ],
+          "bytes": 55296
+        },
+        {
+          "title": "Prism Loop",
+          "console": "psp",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "ULUS94110",
+          "genre": "Puzzle",
+          "developer": "Quiet Machine",
+          "publisher": "Cobalt Row",
+          "summary": "Bend the beam. Close the loop. A hundred puzzles made of light.",
+          "releaseDate": "August 18, 2026",
+          "boot": "Prism Loop.iso",
+          "files": [
+            "Prism Loop.iso",
+            "cover.png"
+          ],
+          "bytes": 55296
+        },
+        {
+          "title": "Sunset Drift GP",
+          "console": "psp",
+          "author": "MuffinFluffin",
+          "license": "CC0-1.0",
+          "discId": "ULUS94108",
+          "genre": "Racing",
+          "developer": "Redbird Arcade",
+          "publisher": "Redbird Arcade",
+          "summary": "Twelve coastal circuits at golden hour. Take the podium or take the wall.",
+          "releaseDate": "June 8, 2026",
+          "boot": "Sunset Drift GP.iso",
+          "files": [
+            "Sunset Drift GP.iso",
+            "cover.png"
+          ],
+          "bytes": 55296
+        }
+      ]
+    },
+    {
+      "slug": "ps-vita",
+      "name": "PlayStation Vita",
+      "short": "Vita",
+      "app": "Suno, Surume",
+      "core": "Vita3K",
+      "formats": [
+        "vpk",
+        "folder"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "gamecube",
+      "name": "GameCube",
+      "short": "GC",
+      "app": "Fin",
+      "core": "Dolphin",
+      "formats": [
+        "iso",
+        "rvz",
+        "gcm",
+        "ciso"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "wii",
+      "name": "Wii",
+      "short": "Wii",
+      "app": "Fin",
+      "core": "Dolphin",
+      "formats": [
+        "iso",
+        "rvz",
+        "wbfs",
+        "wad"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "triforce",
+      "name": "Triforce",
+      "short": "Triforce",
+      "app": "Fin",
+      "core": "Dolphin",
+      "formats": [
+        "iso",
+        "rvz"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "wii-u",
+      "name": "Wii U",
+      "short": "Wii U",
+      "app": "TailFin",
+      "core": "Cemu",
+      "formats": [
+        "wud",
+        "wux",
+        "rpx",
+        "wua"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "nintendo-3ds",
+      "name": "Nintendo 3DS",
+      "short": "3DS",
+      "app": "Chronic",
+      "core": "azahar",
+      "formats": [
+        "3ds",
+        "cci",
+        "cia",
+        "cxi",
+        "app"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "game-boy",
+      "name": "Game Boy",
+      "short": "GB",
+      "app": "Fin, MicroFin",
+      "core": "mGBA",
+      "formats": [
+        "gb"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "game-boy-color",
+      "name": "Game Boy Color",
+      "short": "GBC",
+      "app": "Fin, MicroFin",
+      "core": "mGBA",
+      "formats": [
+        "gbc"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "game-boy-advance",
+      "name": "Game Boy Advance",
+      "short": "GBA",
+      "app": "Fin, MicroFin",
+      "core": "mGBA",
+      "formats": [
+        "gba"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "dreamcast",
+      "name": "Dreamcast",
+      "short": "DC",
+      "app": "Plume",
+      "core": "flycast",
+      "formats": [
+        "gdi",
+        "cdi",
+        "chd"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "xbox",
+      "name": "Xbox",
+      "short": "Xbox",
+      "app": "Monolith",
+      "core": "xemu",
+      "formats": [
+        "iso",
+        "xbe"
+      ],
+      "titles": []
+    },
+    {
+      "slug": "xbox-360",
+      "name": "Xbox 360",
+      "short": "Xbox 360",
+      "app": "Astra",
+      "core": "Xenia",
+      "formats": [
+        "iso",
+        "xex",
+        "god"
+      ],
+      "titles": []
+    }
+  ]
+}

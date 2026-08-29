@@ -1,0 +1,19 @@
+{
+  "title": "Blossom",
+  "console": "playstation",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "SLUS-90005",
+  "genre": "Arcade",
+  "developer": "Sakura",
+  "publisher": "Sakura",
+  "summary": "One petal, one breeze, and the ground waiting. Keep it up as long as you can.",
+  "releaseDate": "August 19, 2026",
+  "boot": "Blossom.cue",
+  "files": [
+    "Blossom.cue",
+    "Blossom.bin",
+    "cover.png"
+  ],
+  "bytes": 56518
+}

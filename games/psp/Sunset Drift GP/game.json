@@ -1,0 +1,18 @@
+{
+  "title": "Sunset Drift GP",
+  "console": "psp",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "ULUS94108",
+  "genre": "Racing",
+  "developer": "Redbird Arcade",
+  "publisher": "Redbird Arcade",
+  "summary": "Twelve coastal circuits at golden hour. Take the podium or take the wall.",
+  "releaseDate": "June 8, 2026",
+  "boot": "Sunset Drift GP.iso",
+  "files": [
+    "Sunset Drift GP.iso",
+    "cover.png"
+  ],
+  "bytes": 55296
+}

@@ -2,10 +2,18 @@
 ## Structure
 
 ```
+games/          — Original homebrew titles, one folder per console
 music/          — Background music tracks (MP3/WAV)
 sfx/            — UI sound effects (WAV)
+neural/         — Core ML texture upscalers
 catalog.json    — Live music catalog manifest
 ```
+
+## Games
+
+Original titles by MuffinFluffin, one folder per console we emulate. See
+[`games/README.md`](games/README.md) for the console table and
+[`games/games.json`](games/games.json) for the manifest the apps read.
 ### Current tracks
 
 | Track | Artist | Source | License |

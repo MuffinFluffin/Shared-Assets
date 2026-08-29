@@ -1,0 +1,18 @@
+{
+  "title": "Prism Loop",
+  "console": "psp",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "ULUS94110",
+  "genre": "Puzzle",
+  "developer": "Quiet Machine",
+  "publisher": "Cobalt Row",
+  "summary": "Bend the beam. Close the loop. A hundred puzzles made of light.",
+  "releaseDate": "August 18, 2026",
+  "boot": "Prism Loop.iso",
+  "files": [
+    "Prism Loop.iso",
+    "cover.png"
+  ],
+  "bytes": 55296
+}

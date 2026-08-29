@@ -1,0 +1,19 @@
+{
+  "title": "Doom Snake",
+  "console": "playstation",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "SLUS-90001",
+  "genre": "Arcade",
+  "developer": "Kite & Anchor",
+  "publisher": "Redbird Arcade",
+  "summary": "Feed it and it grows. Grow it and the room runs out. How long can you live in a shrinking box?",
+  "releaseDate": "July 26, 2026",
+  "boot": "Doom Snake.cue",
+  "files": [
+    "Doom Snake.cue",
+    "Doom Snake.bin",
+    "cover.png"
+  ],
+  "bytes": 58873
+}

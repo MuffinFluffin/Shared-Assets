@@ -1,0 +1,19 @@
+{
+  "title": "Chess",
+  "console": "playstation",
+  "author": "MuffinFluffin",
+  "license": "CC0-1.0",
+  "discId": "SLUS-90006",
+  "genre": "Strategy",
+  "developer": "Two Rivers",
+  "publisher": "Cobalt Row",
+  "summary": "Eight ranks. Sixteen pieces. One winner. No clock, no hints, no take-backs.",
+  "releaseDate": "July 24, 2026",
+  "boot": "Chess.cue",
+  "files": [
+    "Chess.cue",
+    "Chess.bin",
+    "cover.png"
+  ],
+  "bytes": 58868
+}
