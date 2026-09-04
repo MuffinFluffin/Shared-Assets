@@ -11,7 +11,7 @@ catalog.json    — Live music catalog manifest
 
 ## Games
 
-Original titles by MuffinFluffin, one folder per console we emulate. See
+Original titles by MuffinFluffin
 [`games/README.md`](games/README.md) for the console table and
 [`games/games.json`](games/games.json) for the manifest the apps read.
 ### Current tracks
